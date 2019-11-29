@@ -1,1 +1,3 @@
-# cs-ej4101-fall-2019-042-advanced
+# About
+
+I am Ona. I study in Aalto university. 
