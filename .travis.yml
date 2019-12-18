@@ -1,5 +1,7 @@
+language: go
+
 install:
-  - sudo apt-get install hugo
+  - go get github.com/gohugoio/hugo
 script:
   - hugo
   
