@@ -1,11 +1,8 @@
-language: node_js
-node_js:
-  - "stable"
-cache:
-  directories:
-  - node_modules
+install:
+  - sudo apt-get install hugo
 script:
-  - npm run build
+  - hugo
+  
 deploy:
   provider: pages
   skip_cleanup: true
