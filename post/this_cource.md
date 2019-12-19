@@ -1,6 +1,4 @@
----
-title: "This course 042"
----
+#This course 042
 
 What is DevOps? Why is everyone talking about it? Should I know about it?
 
