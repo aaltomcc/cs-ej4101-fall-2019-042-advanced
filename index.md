@@ -1,7 +1,4 @@
-[Learning](https://aaltomcc.github.io/cs-ej4101-fall-2019-042-advanced/post/learning.html)
-
-[This course](https://aaltomcc.github.io/cs-ej4101-fall-2019-042-advanced/post/this_cource.html)
-
+[Learning][sub_learn] [This course][sub_this]
 # About me
 
 I am Ona. I am a student from Aalto university. My interest towards software development started from my summer job as a software testing trainee.
@@ -13,4 +10,13 @@ After starting the job, I have also studied couple of elective courses about pro
 
 ![A parrot](https://aaltomcc.github.io/cs-ej4101-fall-2019-042-advanced/data/parrot.jpg)
 
+Image by Susanne Jutzeler, suju-foto from Pixabay 
 
+
+# Blog posts
+*[Learning][sub_learn]
+
+*[This course][sub_this]
+
+[sub_learn]: https://aaltomcc.github.io/cs-ej4101-fall-2019-042-advanced/post/learning.html
+[sub_this]: https://aaltomcc.github.io/cs-ej4101-fall-2019-042-advanced/post/this_cource.html
