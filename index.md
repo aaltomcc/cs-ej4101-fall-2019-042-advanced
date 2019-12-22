@@ -14,9 +14,9 @@ Image by Susanne Jutzeler, suju-foto from Pixabay
 
 
 # Blog posts
-*[Learning][sub_learn]
+* [Learning][sub_learn]
 
-*[This course][sub_this]
+* [This course][sub_this]
 
 [sub_learn]: https://aaltomcc.github.io/cs-ej4101-fall-2019-042-advanced/post/learning.html
 [sub_this]: https://aaltomcc.github.io/cs-ej4101-fall-2019-042-advanced/post/this_cource.html
